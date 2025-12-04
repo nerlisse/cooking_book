@@ -1,8 +1,7 @@
 package com.example.cooking_book.controllers
 
-import com.example.cooking_book.models.IngredientRequest
-import com.example.cooking_book.models.Recipe
-import com.example.cooking_book.models.RecipeRequest
+import com.example.cooking_book.models.*
+import com.example.cooking_book.service.ProjectService
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*
 
