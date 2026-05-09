@@ -39,9 +39,6 @@
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
   </component>
-  <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/cooking_book/back/src/main/resources/shema.sql" connection-id="0927f0df-30ee-4a72-8b27-e0ffae5b572a" session-id="MAIN" current-schema="public" />
-  </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
     <filters />
