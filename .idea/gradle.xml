@@ -8,6 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/cooking_book" />
+            <option value="$PROJECT_DIR$/cooking_book/back" />
+            <option value="$PROJECT_DIR$/cooking_book/frontend" />
           </set>
         </option>
       </GradleProjectSettings>
